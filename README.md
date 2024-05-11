@@ -1,6 +1,6 @@
 ![MasterHead](https://static.javatpoint.com/blog/images/mern-stack.png)
 <h1 align="center">Hi 👋, I'm Ashina ck</h1>
-<h3 align="center">MERN STACK DEVELOPER</h3>
+<h3 align="center">FULL STACK DEVELOPER</h3>
 <img align="right" alt="coding" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashinack&label=Profile%20views&color=0e75b6&style=flat" alt="ashinack" /> </p>
