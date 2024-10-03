@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashinack&label=Profile%20views&color=0e75b6&style=flat" alt="ashinack" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashinack" alt="ashinack" /></a> </p>
-
 - 🔭 I’m currently working on **Bezziegram-SocialMedia**
 
 - 🌱 I’m currently learning **Redux**
